@@ -43,7 +43,7 @@
 - **Autonomous Agents** — Sales, Support, Compliance & Analytics agents as first-class system actors
 - **LangGraph Orchestration** — Sophisticated multi-step agent workflows
 - **Ollama Integration** — Privacy-first local LLM powered by Llama 3.1
-- **Vector Search** — Semantic search with Weaviate for intelligent retrieval
+- **Vector Search** — Semantic search with Weaviate for intelligent retrivel.
 
 </td>
 <td width="50%">
